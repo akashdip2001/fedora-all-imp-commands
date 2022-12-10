@@ -75,7 +75,7 @@ imp -- [**video 2**](https://youtube.com/playlist?list=PL_RecMEcs_p8wcLmE30yGQzJ
 
 ---
 # fedora - Bios setup
-[**video **](https://youtu.be/JkKOuRmyZdg?t=1430) 
+[**video**](https://youtu.be/JkKOuRmyZdg?t=1430) 
 
 ---
 ---
