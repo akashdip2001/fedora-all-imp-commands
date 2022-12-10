@@ -82,7 +82,7 @@ imp -- [**video 2**](https://youtube.com/playlist?list=PL_RecMEcs_p8wcLmE30yGQzJ
 ---
 <a href="https://akashdip2001.github.io/ubuntu-all-commaands/" class="previous">&laquo; Ubuntu linux all commands</a> <br/>
 <a href="https://akashdip2001.github.io/kali-all-commands/#my-website-https-akashdip2001-github-io-linktree" class="next">Kali linux all commands &raquo;</a>
-
+---
 
 [**my Website**](https://akashdip2001.github.io/linktree/)
 <h1 align="right">AKASHDIP MAHAPATRA</h1>
