@@ -11,6 +11,61 @@
 <br>
 <br>
 
+# Install in WSL
+
+<details>
+  <summary style="opacity: 0.85;"><b>click to show the process 🔴</b></b></summary><br>
+🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥
+
+To install Fedora on WSL (Windows Subsystem for Linux) in Windows 11, follow these steps:
+
+### Step 1: Enable WSL
+1. Open **PowerShell** or **Command Prompt** as Administrator.
+2. Run the following command to enable WSL and install its dependencies:
+   ```powershell
+   wsl --install
+   ```
+
+3. Restart your computer if prompted.
+
+---
+
+### Step 2: Install Fedora on WSL
+1. Open the **Microsoft Store**.
+2. Search for "Fedora Remix for WSL".
+3. Click **Get** or **Install** to download and install Fedora Remix.
+
+Alternatively, you can install Fedora manually:
+1. Download the Fedora root filesystem tarball from the [official Fedora repository](https://getfedora.org/).
+2. Open **PowerShell** or **Command Prompt** and run:
+   ```powershell
+   wsl --import Fedora C:\WSL\Fedora path_to_fedora_tarball.tar
+   ```
+   Replace `path_to_fedora_tarball.tar` with the path to the downloaded tarball.
+
+3. Set Fedora as the default WSL distribution:
+   ```powershell
+   wsl --set-default Fedora
+   ```
+
+---
+
+### Step 3: Launch Fedora
+1. Open the Start menu and type **Fedora**.
+2. Click on the **Fedora** app to launch it.
+3. Follow the on-screen instructions to set up your Fedora environment (e.g., creating a username and password).
+
+---
+
+### Step 4: Update Fedora
+Once inside Fedora, update the system packages:
+```bash
+sudo dnf update -y
+```
+
+🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥
+</details>
+       
 ---
 # install Softwers in KALI Linux ---
 ```
