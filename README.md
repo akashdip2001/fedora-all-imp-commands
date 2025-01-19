@@ -1,9 +1,11 @@
 <img align="right" alt="Mechanical Engineering" width="400" src="https://user-images.githubusercontent.com/81384987/206849124-98ed9ea6-7469-4779-b049-e89cae403b65.png"> 
 
-# fedora-all-imp-commands
+# fedora
 
-[![YouTube](https://yt3.ggpht.com/7tPHyFi7-QyTnhpc484ZzTuRp0fZSY-CUuykvzuKdKYIwt0fmw98SWMqwRy_7pZ6LQzEYJlvXA=s88-c-k-c0x00ffffff-no-rj-mo)](https://www.youtube.com/channel/UCxvmp634YDc41xCWOdvWqoQ)
-<br>
+### Official `fedora` [Documentation](https://docs.fedoraproject.org/en-US/docs/)
+
+</br>
+
 - 🔭 I’m currently working on [**my web-site**](https://akashdip2001.github.io/linktree/)
 
 
